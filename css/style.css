@@ -13,6 +13,7 @@
 }
 .banner {
     width: 100%;
+    position: absolute;
 }
 .header-box {
     margin-bottom: 24px;
@@ -34,6 +35,29 @@
 }
 .block-wraper {
     width: 1322px;
+}
+.banner-text {
+    position: relative;
+    top: 106px;
+    left: 580px;
+    width: 310px;
+    text-align: center;
+    color: white;
+}
+.relative1 {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+}
+.relative2 {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: 'Playfair Display', serif;
+}
+.banner-box {
+    height: 382px;
 }
 .title {
     width: 138px;
